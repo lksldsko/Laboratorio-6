@@ -1,0 +1,30 @@
+.f{
+width: 7cm;
+height: 7cm;
+}
+
+
+.q{
+text-align:center
+}
+a+a{
+margin-left: 25px; 
+}
+img{max-width: 100%;}
+.contener{
+display: flex;
+align-items: center;
+justify-content: center
+}
+.texto{
+font-size: 20px;
+}
+.imagen{
+}
+body{
+background-image: url(/imagenes/Fondo.jpg);
+background-repeat: no-repeat;
+background-color: gray;
+background-attachment: fixed;
+background-size: cover;
+}
